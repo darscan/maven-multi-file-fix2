@@ -7,7 +7,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
   <packaging>pom</packaging>
 
   <properties>
-      <struts.version>2.3.20</struts.version>
+      <struts.version>2.5.12</struts.version>
   </properties>
 
   <dependencyManagement>
